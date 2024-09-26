@@ -5,7 +5,7 @@
 🤖 Robotics engineer <br>
 🧑‍💻 And a Software developer <br>
 
-```
+```Java
 Robot robot = new Robot();
 
 if(robot.gonnaTakeOverTheWorld()) {
