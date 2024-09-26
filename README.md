@@ -1,5 +1,20 @@
-## Hi there 👋
+## print("Hi there 👋")
 
+
+🚀 I'm Aldrin <br>
+🤖 Robotics engineer <br>
+🧑‍💻 And a Software developer <br>
+
+```
+Robot robot = new Robot();
+
+if(robot.gonnaTakeOverTheWorld()) {
+  robot.dont();
+}
+
+//Saving the world
+
+```
 <!--
 **guy1998/guy1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
